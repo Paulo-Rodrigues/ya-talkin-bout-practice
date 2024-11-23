@@ -1,0 +1,31 @@
+name,city,conference,abbreviation,division,championships
+Atlanta Hawks,Atlanta,Eastern,ATL,Southeast,1
+Boston Celtics,Boston,Eastern,BOS,Atlantic,17
+Brooklyn Nets,Brooklyn,Eastern,BKN,Atlantic,0
+Charlotte Hornets,Charlotte,Eastern,CHA,Southeast,0
+Chicago Bulls,Chicago,Eastern,CHI,Central,6
+Cleveland Cavaliers,Cleveland,Eastern,CLE,Central,1
+Dallas Mavericks,Dallas,Western,DAL,Southwest,1
+Denver Nuggets,Denver,Western,DEN,Northwest,1
+Detroit Pistons,Detroit,Eastern,DET,Central,3
+Golden State Warriors,San Francisco,Western,GSW,Pacific,7
+Houston Rockets,Houston,Western,HOU,Southwest,2
+Indiana Pacers,Indianapolis,Eastern,IND,Central,0
+Los Angeles Clippers,Los Angeles,Western,LAC,Pacific,0
+Los Angeles Lakers,Los Angeles,Western,LAL,Pacific,17
+Memphis Grizzlies,Memphis,Western,MEM,Southwest,0
+Miami Heat,Miami,Eastern,MIA,Southeast,3
+Milwaukee Bucks,Milwaukee,Eastern,MIL,Central,2
+Minnesota Timberwolves,Minneapolis,Western,MIN,Northwest,0
+New Orleans Pelicans,New Orleans,Western,NOP,Southwest,0
+New York Knicks,New York,Eastern,NYK,Atlantic,2
+Oklahoma City Thunder,Oklahoma City,Western,OKC,Northwest,1
+Orlando Magic,Orlando,Eastern,ORL,Southeast,0
+Philadelphia 76ers,Philadelphia,Eastern,PHI,Atlantic,3
+Phoenix Suns,Phoenix,Western,PHX,Pacific,0
+Portland Trail Blazers,Portland,Western,POR,Northwest,1
+Sacramento Kings,Sacramento,Western,SAC,Pacific,1
+San Antonio Spurs,San Antonio,Western,SAS,Southwest,5
+Toronto Raptors,Toronto,Eastern,TOR,Atlantic,1
+Utah Jazz,Salt Lake City,Western,UTA,Northwest,0
+Washington Wizards,Washington,Eastern,WAS,Southeast,1
