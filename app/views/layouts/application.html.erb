@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html data-theme="dark">
   <head>
     <title><%= content_for(:title) || "Ya Talkin Bout Practice" %></title>
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="mobile-web-app-capable" content="yes">
+    <meta name="color-scheme" content="light dark" />
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
 
@@ -19,6 +20,8 @@
 
     <%# Includes all stylesheet files in app/assets/stylesheets %>
     <%= stylesheet_link_tag :app %>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.cyan.min.css">
+    <script src="https://unpkg.com/htmx.org@2.0.3" integrity="sha384-0895/pl2MU10Hqc6jd4RvrthNlDiE9U1tWmX7WRESftEDRosgxNsQG/Ze9YMRzHq" crossorigin="anonymous"></script>
   </head>
 
   <body>
