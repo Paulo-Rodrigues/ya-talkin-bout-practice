@@ -1,4 +1,9 @@
 <div id="<%= dom_id team %>">
+  <div>
+    <% if team.avatar.attached? %>
+      <%= image_tag(team.avatar) %>
+    <% end %>
+  <div>
   <p>
     <strong>Name:</strong>
     <%= team.name %>
