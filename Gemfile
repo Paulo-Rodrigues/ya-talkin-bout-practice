@@ -15,6 +15,7 @@ gem "tzinfo-data", platforms: %i[ windows jruby ]
 # Use the database-backed adapters for Rails.cache and Active Job
 gem "solid_cache"
 gem "solid_queue"
+gem 'image_processing'
 
 # Deploy this application anywhere as a Docker container [https://kamal-deploy.org]
 gem "kamal", require: false
